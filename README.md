@@ -1,3 +1,10 @@
 # Healthcare-analytics-with-R
 
-Genral Healthcare Analytic exercises using R and various statistical models. 
+General Healthcare Analytic exercises using R and various statistical models. 
+
+This includes:
+ - Linear Regression
+ - Multiple Regression
+ - Logistic Regression
+ - Inferential Statistics
+ - Correlation Research
